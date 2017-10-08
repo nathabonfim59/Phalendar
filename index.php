@@ -161,6 +161,13 @@
         return $initial_day_of_month;
     }
 
+    /**
+     * Display a table with all days of month
+     *
+     * @param [integer] $month The number of month
+     * @param [integer] $number_of_days The quantity of days in the month
+     * @return void
+     */
     function build_month_days($month, $number_of_days) {
         $days_of_month_html = '<tr class="week-day">';
         
