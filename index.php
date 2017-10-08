@@ -86,7 +86,7 @@
             break;
         case 12:
             $month_name = "December";
-            $number_of_days = 30;            
+            $number_of_days = 31;            
             break;
         default:
             $month_name = "Invalid month";

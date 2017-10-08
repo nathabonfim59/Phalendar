@@ -1,4 +1,4 @@
-# Phendar
+# Phalendar
 
 A calendar application built with PHP and HTML5
 
@@ -19,7 +19,8 @@ To run this project in your machine, just clone the repository and start the PHP
 
 ## Built With
 
-* [PHP 7](http://www.dropwizard.io/1.0.2/docs/) - A web programming language
+* [PHP](https://secure.php.net/) - A web programming language
+* [HTML5](https://www.w3schools.com/html/html5_intro.asp) - The markup of the web
 * [Apache](https://maven.apache.org/) - Dependency Management
 ## Authors
 
