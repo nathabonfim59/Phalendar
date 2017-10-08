@@ -7,7 +7,7 @@ A calendar application built with PHP and HTML5.
 
 ## Prerequisites
 
-- A PHP Server (like [Apache](https://www.apache.org/) or something)
+- A PHP Server (like [Apache](https://httpd.apache.org/) or something)
 - A browser to see results
 
 
