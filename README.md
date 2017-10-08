@@ -21,7 +21,7 @@ To run this project in your machine, just clone the repository and start the PHP
 
 * [PHP](https://secure.php.net/) - A web programming language
 * [HTML5](https://www.w3schools.com/html/html5_intro.asp) - The markup of the web
-* [Apache](https://maven.apache.org/) - Dependency Management
+* [Apache](https://httpd.apache.org/) - A open web server
 ## Authors
 
 * **Nathanel** - *For a while* - [nathabonfim59](https://github.com/nathabonfim59)
