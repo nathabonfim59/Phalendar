@@ -1,0 +1,60 @@
+.container-fluid {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    font-size: 50px;
+}
+
+.pager {
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.pager li a {
+    border-radius: 20px;
+    font-size: 20px;
+    border-color: #2fa078;
+    color: #2fa078;
+    margin-right: 80px;
+    margin-left: 80px;
+    
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.pager li a:hover {
+    background-color: #2fa078;
+    color: #fff;
+}
+
+.month {
+    border: #38c594 solid 3px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.month-name {
+    text-align: center;
+    background-color: #38c594;
+    color: #fff;
+    margin: -15px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    margin-bottom: 10px;
+}
+
+.week-day {
+    padding-left: 20px;
+    padding-right: 10px;
+    text-align: right;
+    width: 100px;
+}
+
+.day {
+    text-align: right;
+    padding-right: 9px;
+}
+
+.sunday {
+    color: #ec4a4a;
+}
