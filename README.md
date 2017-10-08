@@ -1,6 +1,6 @@
 # Phalendar
 
-A calendar application built with PHP and HTML5
+A calendar application built with PHP and HTML5.
 
 ## Screenshot
 ![Screenshot](preview.png)
